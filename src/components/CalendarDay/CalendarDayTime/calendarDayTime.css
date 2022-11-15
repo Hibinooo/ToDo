@@ -1,0 +1,19 @@
+
+.dayTime{
+  display: inline-block;
+  background-color: aliceblue;
+  text-align: center;
+  line-height: 45px;
+  width: 45px;
+  height: 45px;;
+  margin: 0;
+  border-radius: 5px;
+  
+  
+}
+.dayTime:hover{
+  background-color: rgb(255, 201, 243);
+}
+.dayTime.active{
+  background-color: rgb(255, 163, 233);
+}

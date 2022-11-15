@@ -1,0 +1,155 @@
+{
+  "days": [
+  {
+    "id": 1,
+    "name": "Monday"
+  },
+  {
+    "id": 2,
+    "name": "Tuesday"
+  },
+  {
+    "id": 3,
+    "name": "Wednesday"
+  },
+  {
+    "id": 4,
+    "name": "Thusday"
+  },
+  {
+    "id": 5,
+    "name": "Friday"
+  },
+  {
+    "id": 6,
+    "name": "Saturday"
+  },
+  {
+    "id": 7,
+    "name": "Sunday"
+  }
+],
+  "times": [
+    {
+      "id": 1,
+      "dayId": 1,
+      "time": 7,
+      "active": true
+    },
+    {
+      "id": 2,
+      "dayId": 1,
+      "time": 8,
+      "active": false
+    },
+    {
+      "id": 3,
+      "dayId": 1,
+      "time": 9,
+      "active": false
+    },
+    {
+      "id": 4,
+      "dayId": 1,
+      "time": 10,
+      "active": false
+    },
+    {
+      "id": 5,
+      "dayId": 1,
+      "time": 11,
+      "active": false
+    },
+    {
+      "id": 6,
+      "dayId": 1,
+      "time": 12,
+      "active": false
+    },
+    {
+      "id": 7,
+      "dayId": 1,
+      "time": 13,
+      "active": false
+    },
+    {
+      "id": 8,
+      "dayId": 1,
+      "time": 14,
+      "active": false
+    },
+    {
+      "id": 9,
+      "dayId": 1,
+      "time": 15,
+      "active": false
+    },
+    {
+      "id": 10,
+      "dayId": 1,
+      "time": 16,
+      "active": false
+    },
+    {
+      "id": 11,
+      "dayId": 1,
+      "time": 17,
+      "active": false
+    },
+    {
+      "id": 12,
+      "dayId": 1,
+      "time": 18,
+      "active": false
+    },
+    {
+      "id": 13,
+      "dayId": 1,
+      "time": 19,
+      "active": false
+    },
+    {
+      "id": 14,
+      "dayId": 1,
+      "time": 20,
+      "active": false
+    },
+    {
+      "id": 15,
+      "dayId": 1,
+      "time": 21,
+      "active": false
+    },
+    {
+      "id": 16,
+      "dayId": 1,
+      "time": 22,
+      "active": false
+    },
+    {
+      "id": 17,
+      "dayId": 1,
+      "time": 23,
+      "active": false
+    },
+    {
+      "id": 18,
+      "dayId": 1,
+      "time": 24,
+      "active": false
+    },
+    {
+      "id": 19,
+      "dayId": 2,
+      "time": 7,
+      "active": false
+    },
+    {
+      "id": 20,
+      "dayId": 2,
+      "time": 8,
+      "active": false
+    }
+  ]
+
+}

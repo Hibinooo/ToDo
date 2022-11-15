@@ -1,0 +1,30 @@
+.calendar_day {
+  max-width: 300px;
+  min-width: 300px;
+  margin: 10px;
+  background-color: aquamarine;
+  text-align: center;
+  border-radius: 5%;
+  box-shadow: 3px 3px 3px 3px rgba(129, 129, 129, 0.177);
+
+  &:hover {
+    transform: scale(1.02);
+  }
+}
+
+.calendar_day_header {
+  color: rgb(62, 62, 62);
+  font-style: bold;
+  background-color: azure;
+  padding: 5px;
+  margin: 10px 10px 5px 10px;
+  border-radius: 10px;
+}
+
+.container_day_time {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  justify-content: center;
+  margin: 10px;
+}

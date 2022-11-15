@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+
+.header{
+  height: 4vh;
+  background-color: rgb(227, 206, 255);
+}
+.calendar{
+  height: 96vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  background-color: rgb(255, 255, 255);
+  
+}
+
